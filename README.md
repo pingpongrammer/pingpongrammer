@@ -1,7 +1,8 @@
 ## Hi there, I'm Karl👋
 
 
-As an aspiring web developer, I am passionately honing my skills in various programming languages, frameworks, and design principles. I am on a continuous learning journey, exploring innovative technologies to create engaging and user-friendly websites. Currently seeking opportunities, I am eager to apply my knowledge and contribute to dynamic projects, bringing creativity and a solutions-oriented mindset to the ever-evolving landscape of web development.
+I am deeply passionate about honing my skills in various programming languages, frameworks, and design principles. With a commitment to continuous learning, I explore innovative technologies to craft engaging and user-friendly websites. My focus is on applying creativity and a solutions-driven mindset to contribute to the evolving world of web development.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

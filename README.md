@@ -1,4 +1,7 @@
 ## Hi there, I'm Karl👋
+
+#'You can call me Pingpongrammer — passionate about both pingpong and programming!'#
+
 I am deeply passionate about honing my skills in various programming languages, frameworks, and design principles. With a commitment to continuous learning, I explore innovative technologies to craft engaging and user-friendly websites. My focus is on applying creativity and a solutions-driven mindset to contribute to the evolving world of web development.
 
 🔭 I’m currently working on:

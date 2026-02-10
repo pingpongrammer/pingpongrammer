@@ -1,6 +1,5 @@
 ## Hi there, I'm Karl👋
 
-**`You can call me Pingpongrammer — passionate about both pingpong and programming!`**
 
 As an aspiring **`web developer`** i am deeply passionate about honing my skills in various programming languages, frameworks, and design principles. With a commitment to continuous learning, I explore innovative technologies to craft engaging and user-friendly websites. My focus is on applying creativity and a solutions-driven mindset to contribute to the evolving world of web development.
 
@@ -22,9 +21,6 @@ Web development best practices, working with Laravel, Livewire, Tailwind CSS, an
 📫 How to reach me:
 Email: karlcabalquinto07@gmail.com
 Phone: 09776162392
-
-⚡ Fun fact:
-I was a table tennis player and a national player who represented the Bicol region in Palarong Pambansa!
 
 
 ---
